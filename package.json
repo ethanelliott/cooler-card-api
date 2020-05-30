@@ -6,7 +6,7 @@
   "author": "ethan <ethan.elliott@hotmail.ca>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc ./src/app.ts",
+    "build": "tsc",
     "start": "node ./dist/app.js"
   },
   "devDependencies": {
