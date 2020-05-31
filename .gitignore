@@ -2,3 +2,5 @@
 /lsp/
 /.idea/
 /dist/
+/.secret
+/store/games.json
