@@ -22,7 +22,7 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chalk": "^4.0.0",
     "cors": "^2.8.5",
     "diskdb": "^0.1.17",
